@@ -1,0 +1,11 @@
+{
+    "image_settings": {
+        "x_adjust": 5,
+        "y_adjust": 840
+    },
+    "paths": {
+        "path_to_base": "C:\\auto_scripts\\wallpaper\\required\\base.png",
+        "path_to_final": "C:\\auto_scripts\\wallpaper\\required\\wallpaper.png",
+        "path_to_font": "C:\\auto_scripts\\wallpaper\\required\\font.ttf"
+    }
+}
