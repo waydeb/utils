@@ -1,7 +1,6 @@
 ﻿function Get-Win32Info {
     param (
-        $win32,
-
+        $win32
     )
 
     foreach ($Win32 in $win32) {
